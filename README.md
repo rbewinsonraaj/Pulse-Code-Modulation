@@ -144,6 +144,7 @@ plt.show()
 <img width="1173" height="1030" alt="Screenshot 2026-04-27 112033" src="https://github.com/user-attachments/assets/eab9ebe5-ee91-44c8-95ff-d99b1ab87c18" />
 <img width="1289" height="278" alt="Screenshot 2026-04-27 112040" src="https://github.com/user-attachments/assets/9f60e302-cfb1-4fb5-931c-6d1a5ff6de5f" />
 
+
 # Results
 
 Thus the simple Python program for the modulation and demodulation of PCM, and DM is simulated and verified.
